@@ -1,0 +1,33 @@
+{[
+  {
+
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MTAyMTgwNTliZTUxODA5ZDE0NTE4NSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2MjY2NTE5OSwiZXhwIjoxNzYyNzUxNTk5fQ.daLk6zdEgkv3pBADocRqhlJbOJS4sDY2mNrVT2OsnJY
+    
+    "name": "Amol Kadam(Admin)",
+    "email": "amolkadam1274@gmail.com",
+    "password": "Amolkadam@7709",
+    "role": "admin",
+    "phone": "7709000001"
+  },
+  {
+    "name": "Amit Kadam",
+    "email": "amitkadam5256@gmail.com",
+    "password": "Manager@5256",
+    "role": "manager",
+    "phone": "7709000002"
+  },
+  {
+    "name": "Ram patil",
+    "email": "rampatil5256@gmail.com",
+    "password": "Employee@5256",
+    "role": "employee",
+    "phone": "7709000003"
+  },
+  {
+    "name": "Sham Gore",
+    "email": "shamgore9909@gmail.com",
+    "password": "Agent@123",
+    "role": "agent",
+    "phone": "7709000004"
+  }
+]

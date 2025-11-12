@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.loginbg{
+    background-image: url('../src/assets/images/bg.jpg'); /* path to your image */
+  background-size: cover;       /* cover whole screen */
+  background-repeat: no-repeat; /* prevent repeating */
+  background-position: center;  /* center the image */
+  font-family: Arial, sans-serif;
+}
+
+
+
